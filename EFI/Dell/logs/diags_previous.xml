@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>77</LogNumber>
+    <LogTimeStamp>01/23/2024 06:12:32</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Abort</Result>
+      <DevicesTested>User Selected</DevicesTested>
+      <ePSAFullVersion>4306.12</ePSAFullVersion>
+      <ePSAInvocationCount>1</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>PRV_NO_MEMORY</ErrorCategory>
+      <ErrorMessage><![CDATA[Alert! No memory was detected on previous boot.]]></ErrorMessage>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
